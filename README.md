@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/ErrorCodez-Bots/Mirror-Leech-Pro">
         <kbd>
-            <img width="250" src="https://telegra.ph/file/fee99f091e6352fb81df0-f76172e5916d37d5c6.jpg" alt="WZML-X Logo">
+            <img src="https://telegra.ph/file/fee99f091e6352fb81df0-f76172e5916d37d5c6.jpg" alt="WZML-X Logo">
         </kbd>
     </a>
     
