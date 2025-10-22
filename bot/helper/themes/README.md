@@ -5,7 +5,7 @@
 
 ### ***Requirements :***
 1. A Local Editor or Use [github.dev](https://github.dev)
-2. **Sample File :** Check [wzml_minimal.py](https://github.com/ErrorCodez-Bots/ECML-X/blob/master/bot/helper/themes/ecml_minimal.py)
+2. **Sample File :** Check [ecml_minimal.py](https://github.com/ErrorCodez-Bots/ECML-X/blob/master/bot/helper/themes/ecml_minimal.py)
 
 ---
 
