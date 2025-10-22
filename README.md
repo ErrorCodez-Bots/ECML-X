@@ -1,6 +1,6 @@
 <p align="center">
     <a>
-            <img src="https://telegra.ph/file/fee99f091e6352fb81df0-f76172e5916d37d5c6.jpg">
+            <img src="https://telegra.ph/file/2b47b19c32db44bdd3059-9ad64c62e1a30c3781.jpg">
     </a>
     
 <i>A Telegram Bot written in Python using Pyrogram Framework for mirroring/cloning online/local files on the Internet to your Google Drive, Telegram or to any RClone supported cloud. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot). This is Enhanced Version of Base Repo [mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot)</i>
