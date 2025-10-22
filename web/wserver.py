@@ -223,20 +223,20 @@ function s_validate() {
 </script>
 </head>
 <body>
-  <!--© Designed and coded by @bipuldey19-Telegram-->
+  <!--© Designed and coded by @ZxZenitsu-Telegram-->
     <header>
       <div class="brand">
         <img
           src="https://graph.org/file/1a6ad157f55bc42b548df.png"
           alt="logo"
         />
-        <a href="https://t.me/krn_adhikari">
+        <a href="https://t.me/ZxZenitsu">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/weebzone/WZML"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/krn_adhikari"><i class="fab fa-telegram"></i></a>
+        <a href="https://www.github.com/ErrorCodez-Bots/ECML-X"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/ZxZenitsu"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
@@ -627,8 +627,8 @@ section span{
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/weebzone/WZML-X"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/WZML_X"><i class="fab fa-telegram"></i></a>
+        <a href="https://www.github.com/ErrorCodez-Bots/ECML-X"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/ErrorCodez_Bots"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
