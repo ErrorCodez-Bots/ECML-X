@@ -1,4 +1,4 @@
-FROM zenitsu/mlp:latest
+FROM zenitsu/ecml:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
