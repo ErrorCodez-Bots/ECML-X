@@ -527,7 +527,7 @@ async def _mirror_leech(
 
 
 @new_task
-async def wzmlxcb(_, query):
+async def ecmlxcb(_, query):
     message = query.message
     user_id = query.from_user.id
     data = query.data.split()
